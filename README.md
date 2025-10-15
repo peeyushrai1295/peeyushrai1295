@@ -37,6 +37,10 @@ Let’s connect to discuss how I can contribute to your team’s success with cu
   </a>
 </p>
 
+#### GitHub
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=peeyushrai1295&show_icons=true&theme=ambient_gradient)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeyushrai1295&layout=compact&theme=ambient_gradient) 
+
 ### Holopin
 
 [![An image of @peeyushrai1295's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/peeyushrai1295)](https://holopin.io/@peeyushrai1295)
