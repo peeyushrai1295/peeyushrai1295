@@ -1,4 +1,12 @@
-## Hi there my name is peeyush rai👋
+## Hi there my name is Peeyush Rai👋
+
+As a Senior Data Engineer at CGI with a strong background from TCS, I bring extensive experience in building scalable, high-performance data solutions. With certifications in AWS Solutions Architect and Azure Data Engineer, I am skilled in leveraging cloud technologies to create robust data infrastructures.
+
+I specialize in ETL pipelines, SQL, and have hands-on experience with tools like Informatica Admin, DB2, and PGAdmin. I am passionate about optimizing data workflows, ensuring seamless data integration, and driving impactful AI and Big Data solutions.
+
+My focus is on delivering end-to-end data solutions that empower businesses to make data-driven decisions while ensuring high availability and security. I am always exploring new challenges and eager to apply my skills to innovative, complex projects.
+
+Let’s connect to discuss how I can contribute to your team’s success with cutting-edge data engineering practices!
 
 -----------------------------------------------------------------------
 ### Skills
