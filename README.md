@@ -1,5 +1,11 @@
 ## Hi there my name is Peeyush Rai👋
 
+* 🌍  I'm based in Bangalore
+* ✉️  You can contact me at peeyushrai1295@gmail.com
+* 🚀  I'm currently working on Informatica
+* 🧠  I'm learning AWS, Azure cloud services
+* 🤝  I'm open to collaborating on Interesting Project
+
 As a Senior Data Engineer at CGI with a strong background from TCS, I bring extensive experience in building scalable, high-performance data solutions. With certifications in AWS Solutions Architect and Azure Data Engineer, I am skilled in leveraging cloud technologies to create robust data infrastructures.
 
 I specialize in ETL pipelines, SQL, and have hands-on experience with tools like Informatica Admin, DB2, and PGAdmin. I am passionate about optimizing data workflows, ensuring seamless data integration, and driving impactful AI and Big Data solutions.
