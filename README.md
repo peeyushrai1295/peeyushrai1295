@@ -29,6 +29,8 @@
   </a>
 </p>
 
+### Holopin
 
+[![An image of @peeyushrai1295's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/peeyushrai1295)](https://holopin.io/@peeyushrai1295)
 
 
